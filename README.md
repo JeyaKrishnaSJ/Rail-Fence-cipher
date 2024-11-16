@@ -1,4 +1,4 @@
-# EX.NO: 2 A Rail-Fence-
+# EX.NO: 2 A Rail Fence Cipher
 # AIM:
 To implement a program for encryption and decryption using rail fence transposition technique.
 # ALGORITHM:
