@@ -2,21 +2,12 @@
 # AIM:
 To implement a program for encryption and decryption using rail fence transposition technique.
 # ALGORITHM:
-n the rail fence cipher, the plaintext is written downwards and diagonally on successive "rails" of an
+In the rail fence cipher, the plaintext is written downwards and diagonally on successive "rails" of an
 imaginary fence, then moving up when we reach the bottom rail. When we reach the top rail, the
 message is written downwards again until the whole plaintext is written out. The message is then
 read off in rows.
 # PROGRAM:
 ```
-To implement a program for encryption and decryption using rail fence transposition technique.
-In the rail fence cipher, the plaintext is written downwards and diagonally on successive "rails" of an
-imaginary fence, then moving up when we reach the bottom rail. When we reach the top rail, the
-message is written downwards again until the whole plaintext is written out. The message is then
-read off in rows.
-Rail-fence-cipher
-AIM:
-ALGORITHM :
-PROGRAM:
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
